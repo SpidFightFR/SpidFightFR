@@ -1,5 +1,5 @@
 - 👋 'Sup, I’m @SpidFightFR
-- 👀 I’m interested in Linux
+- 👀 I’m interested in GNU/Linux
 - 🌱 I’m currently learning C++ and Html-Php
 - 💞️ I’m looking to collaborate on everything ya want, buddy. 😘
 - 📫 How to reach me twitter: @spidfight
