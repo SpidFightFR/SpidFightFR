@@ -2,4 +2,5 @@
 - 👀 I’m interested in GNU/Linux
 - 🌱 I’m currently learning C++ and Html-Php
 - 💞️ I’m looking to collaborate on everything ya want.
-- 😄 Have a nice day ! 
+- 😄 Have a nice day !
+- 👌 VoidLinux FTW <3
