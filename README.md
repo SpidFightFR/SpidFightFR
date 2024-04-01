@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on everything ya want.
 - 😄 Have a nice day !
 - 👌 VoidLinux FTW <3
+- 🎮 Gaming Linux France member
