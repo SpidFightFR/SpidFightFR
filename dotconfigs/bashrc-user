@@ -1,0 +1,39 @@
+#
+# ~/.bashrc
+#
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+#useful aliases
+alias ls='ls --color'
+alias ip='ip -c'
+alias grep='grep --color'
+alias ping='ping -c5'
+alias reboot='sudo reboot'
+alias poweroff='sudo poweroff'
+alias back='cd; clear; fastfetch | lolcat -r -b'
+
+alias monip='curl https://ifconfig.me ; echo'
+
+alias ytmp3='yt-dlp -x --audio-format mp3'
+alias ytmp4='yt-dlp --remux-video mp4'
+
+#xbps aliases
+alias xi='doas xbps-install -S'
+alias xu='doas xbps-install -Su; fpu'
+alias xs='xbps-query -S'
+alias xver='xbps-query -p pkgver '
+alias xr='doas xbps-remove -R'
+alias xc='doas xbps-remove -oO; fpc'
+alias xl='xbps-query -l'
+
+#flatpak aliases
+alias fpi='flatpak install --arch=x86_64 --user'
+alias fpu='flatpak update --user'
+alias fpr='flatpak uninstall --user --delete-data'
+alias fpc='flatpak uninstall --user --unused'
+alias fps='flatpak search'
+#PS1='[\u@\h \W]\$ '
+PS1="\[\e[32m\][\[\e[m\]\[\e[31m\]\u\[\e[m\]\[\e[33m\]@\[\e[m\]\[\e[32m\]\h\[\e[m\]:\[\e[36m\]\w\[\e[m\]\[\e[32m\]]\[\e[m\]\[\e[32m\] $\[\e[m\] "
+fastfetch | lolcat -r -b
