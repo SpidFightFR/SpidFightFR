@@ -35,7 +35,7 @@ I avoid sharing my email by default. <br>
 The most recommanded way would be <a href= "https://getsession.org/">Session</a>, as it's a Signal fork that doesn't rely on personnal info to make an account. <br>
 I like not doxxing myself ! <br>
 So here's my session ID if you wanna chit-chat: <br>
-<a href="./src/img/session-id-SpidFightFR.svg">059bd4468ac4f339d3f20fe73b7e21e670cbfcfdab1fdcf0c3bb02f1b78bd3a423</a>
+<a href="./src/img/session-id-SpidFightFR.jpg">056da8063eaa36948b30701fe87b4c241923e3ed60f7144b66750c7a91c8d7297a</a>
 
 ### Anything you wanna add ?
 <a href="https://codeberg.org/Gaming-Linux-FR"> <img src="https://codeberg.org/avatars/f0223e2209ba64005edc240eb6baefc29b51dadf77ad6d51911005adca5ff5a7" width="20" height="20"/> </a> i'm a proud Gaming Linux France member. Probably the best community out here. <3
