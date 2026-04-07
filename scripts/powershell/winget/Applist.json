@@ -1,0 +1,36 @@
+{
+	"$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate": "2023-06-22T07:54:11.788-00:00",
+	"Sources": [
+		{
+			"Packages": [
+				{
+					"PackageIdentifier": "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier": "7zip.7zip"
+				},
+				{
+					"PackageIdentifier": "Librewolf.Librewolf"
+				},
+				{
+					"PackageIdentifier": "KDE.Kate"
+				},
+				{
+					"PackageIdentifier": "KDE.Okular"
+				},
+				{
+					"PackageIdentifier": "Neovim.Neovim"
+				}
+				
+			],
+			"SourceDetails": {
+				"Argument": "https://cdn.winget.microsoft.com/cache",
+				"Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name": "winget",
+				"Type": "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion": "1.6.1573-preview"
+}
