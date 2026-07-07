@@ -21,8 +21,11 @@
 				},
 				{
 					"PackageIdentifier": "Neovim.Neovim"
+				},
+				{
+					"PackageIdentifier": "Microsoft.Powershell"
 				}
-				
+
 			],
 			"SourceDetails": {
 				"Argument": "https://cdn.winget.microsoft.com/cache",
